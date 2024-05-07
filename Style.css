@@ -1,0 +1,115 @@
+body {
+    background-image: url("Pages/Gallery/pic.jpg");
+    background-size: cover;
+    background-position: center; 
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+   }
+
+.aboutMe {
+    font-size:larger;
+    background-color: coral;
+    padding: 10px;
+    border-style: solid;
+    width: 120px;
+    font-style: italic;
+    }
+
+#Liverpool {
+    color:red;
+    text-decoration: none;
+    font-style: italic;
+}
+
+h2 {
+    color: white;
+    text-align:center;
+}   
+
+.block{
+    width:700px;
+    height: auto;
+}
+
+.img{
+    border: 10px solid grey;
+    width: 180px;
+}
+
+.headings {
+    color:darkslategray;
+    font-style: italic;    
+}
+
+.link{
+    color:aqua;
+    text-decoration: none;
+}
+
+.school {
+    color:red
+}
+
+.motivated{
+    color:orange
+}
+
+.producers{
+    color:yellow
+}
+
+.skills{
+    color:lightgreen
+}
+
+#students{
+    color:blue
+}
+
+#motivates{
+    color:blueviolet
+}
+
+.backgroundImage{
+    background-image: url(Pages/Gallery/backpic.jpg);
+    background-size: cover;
+}
+
+.contactPage {
+    color:yellowgreen;
+    font-style: italic;
+}
+
+.bgpic {
+    background-image: url(Pages/Contacts/monkey.gif);
+    background-size: cover;
+    width: 90vw;
+    height:90vh;
+}
+
+#contacts {
+    color:yellowgreen;
+    font-size:30px;
+}
+
+#contactlinks {
+    color:yellow;
+    text-decoration: none;
+    font-size: 32px;
+    white-space: nowrap;  
+}
+
+
+
+
+
+
+
+   
+
+
+
+  
+ 
+   
